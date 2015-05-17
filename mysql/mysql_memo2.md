@@ -66,5 +66,5 @@ I/Oが発生せず、高速にデータの更新、参照が可能。
    * 更新したクエリに影響が出るキャッシュ情報を全てチェックし、削除するためパフォーマンスが出ない
 
 ## 参考文献
- * [Webエンジニアのための データベース技術[実践]入門 (Software Design plus)](http://dsas.blog.klab.org/archives/52021866.html)
+ * [Webエンジニアのための データベース技術[実践]入門 (Software Design plus)](http://goo.gl/HS0ux)
  * [クエリキャッシュは切ったほうがいいんじゃなイカ？](http://dsas.blog.klab.org/archives/52021866.html)
